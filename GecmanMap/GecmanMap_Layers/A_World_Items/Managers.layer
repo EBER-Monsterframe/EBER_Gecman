@@ -1,0 +1,45 @@
+SCR_MapEntity MapEntity_Default1 : "{21C189074DAB7E90}Prefabs/World/DefaultWorld/MapEntity_Default.et" {
+}
+GenericWorldPPEffect : "{3AFFB0B0EC055284}Prefabs/World/DefaultWorld/GenericWorldPP_Default.et" {
+ coords -21.466 58.929 -93.23
+}
+SCR_AIWorld : "{E0A05C76552E7F58}Prefabs/AI/SCR_AIWorld.et" {
+ coords -21.1 58.312 -92.287
+}
+SCR_DestructionManager : "{E5B570B5F32A7BAE}Prefabs/Systems/Destruction/DestructionManager.et" {
+ coords -21.325 58.253 -92.586
+}
+GenericWorldLightEntity : "{5B2B348D9520F7C7}Prefabs/World/DefaultWorld/Lighting_Default.et" {
+ coords -22.211 58.444 -93.652
+ angles 0 0 0
+}
+GenericWorldFogEntity : "{78D9BBF0F423FEB4}Prefabs/World/DefaultWorld/FogHaze_Default.et" {
+ coords -23.776 59.808 -91.061
+}
+SCR_CameraManager SCR_CameraManager1 : "{33F9FD881E3700CC}Prefabs/World/Game/SCR_CameraManager.et" {
+ coords -21.701 59.201 -93.59
+}
+TimeAndWeatherManagerEntity : "{A3BAF78F6F03315B}Prefabs/World/Game/TimeAndWeatherManager.et" {
+ coords -21.018 58.418 -92.246
+}
+BasePreloadManager PreloadManager1 : "{104F8505FD1871EF}Prefabs/World/Game/PreloadManager.et" {
+ coords -21.254 59.204 -93.116
+}
+MusicManager : "{359452CCDBDD03F6}Prefabs/Sounds/Music/MusicManager_Base.et" {
+ coords -20.854 58.597 -92.108
+}
+GenericEntity : "{434AFBBE90F2B078}Prefabs/Sounds/Environment/AmbientSounds_Everon.et" {
+ coords -21.049 58.967 -92.721
+}
+GenericEntity : "{7699E66077068406}Prefabs/World/Game/ForestSyncManager.et" {
+ coords -21.571 58.833 -93.293
+}
+SCR_MPDestructionManager : "{9BB369F2803C6F71}Prefabs/MP/MPDestructionManager.et" {
+ coords -21.69 58.721 -93.353
+}
+GameEnvironmentProbeEntity : "{B6B6A21399C5571B}Prefabs/World/DefaultWorld/EnvProbe_Default.et" {
+ coords -22.583 59.136 -92.126
+}
+SoundWorld : "{FBE5065D0273E9E1}Prefabs/Sounds/SoundWorld/SoundWorld_Base.et" {
+ coords -20.962 58.189 -91.877
+}
