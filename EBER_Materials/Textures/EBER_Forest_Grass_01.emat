@@ -1,0 +1,6 @@
+TerrainMaterial : "{916E4B9FEFDDDAAC}Terrains/Common/Surfaces/MountainGrass_01.emat" {
+ SatMapBlend 0.75
+ SatMapBrightness 0.14
+ PlantMat "{3AE808C7C586F554}EBER_Materials/Clutter/Emats/EBER_cp_grass_01_01.emat"
+ ClutterConfig "{169D8F501A710D13}EBER_Materials/Clutter/Configs/EBER_c_set_MountainGrass_01_01.conf"
+}

@@ -1,0 +1,37 @@
+ForestGeneratorEntity : "{902AD461F55475F0}Prefabs/WEGenerators/Forest/FG_Forest_base.et" {
+ ID "622CD20836D1DA71"
+ m_aLevels {
+  ForestGeneratorOutline FS1_outline {
+   m_aTreeGroups {
+    TreeGroupClass smallestThings {
+     m_aTrees {
+      ForestGeneratorTreeShort deadTree1 {
+       m_Prefab "{45A5973AE6686EA1}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_2sd.et"
+       m_fWeight 0.5
+      }
+      ForestGeneratorTreeShort bush1 {
+       m_Prefab "{AF4BFBE29028A9FD}Prefabs/Vegetation/Bush/b_corylus_avellana_1l.et"
+       m_fWeight 0.5
+      }
+     }
+    }
+    TreeGroupClass Rocks {
+     m_fWeight 0.2
+     m_aTrees {
+      FallenTree Rock1 {
+       m_Prefab "{73EC6B87B4C83C12}EBER_Prefabs/Rocks/Pure/EBER_GraniteSurfaceStone_07.et"
+       m_fBotDistance 0.2
+       m_fMaxTerrainSlope 35.227
+      }
+     }
+    }
+   }
+   m_fDensity 5
+   m_fClusterStrength 2
+   m_fClusterRadius 30
+   m_eOutlineType MIDDLE
+   m_fMinDistance 0
+   m_fMaxDistance 5
+  }
+ }
+}

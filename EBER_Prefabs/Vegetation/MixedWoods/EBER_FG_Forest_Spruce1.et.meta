@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{43F9ED12C1289672}EBER_Prefabs/Vegetation/MixedWoods/EBER_FG_Forest_Spruce1.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

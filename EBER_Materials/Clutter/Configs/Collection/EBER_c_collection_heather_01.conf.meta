@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{B0273D81B7C9C3B6}Configs/Clutter/Collections/EBER_c_collection_heather_01.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

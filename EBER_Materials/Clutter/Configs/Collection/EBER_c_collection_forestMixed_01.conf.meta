@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{3E7644655D2D3CAB}EBER_Materials/Clutter/Configs/Collection/EBER_c_collection_forestMixed_01.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

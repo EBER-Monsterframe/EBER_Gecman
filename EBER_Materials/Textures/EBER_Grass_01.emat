@@ -1,0 +1,8 @@
+TerrainMaterial : "{5E80F5F438B08C00}Terrains/Common/Surfaces/Grass_01.emat" {
+ SatMapBlend 0.71
+ SatMapBrightness 0.25
+ PlantMat "{B6D76B5D84B49042}EBER_Materials/Clutter/Emats/EBER_cp_grass_01.emat"
+ DebugColor 0.624 0.506 0.157 1
+ MiddleNOPower 1.095
+ MiddleBCRBlend 1.25
+}

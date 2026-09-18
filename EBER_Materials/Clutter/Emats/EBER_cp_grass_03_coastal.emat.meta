@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{BC2061A28404B1B3}Assets/Clutter/Procedural/EBER_cp_grass_03_coastal.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

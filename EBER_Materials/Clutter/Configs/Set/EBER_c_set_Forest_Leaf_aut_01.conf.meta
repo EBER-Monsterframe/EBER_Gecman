@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{8816E9D83A7461E4}Configs/Clutter/Sets/EBER_c_set_ForestClearingDec_01.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

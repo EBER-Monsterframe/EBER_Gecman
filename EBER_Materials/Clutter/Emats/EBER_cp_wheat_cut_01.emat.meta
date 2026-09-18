@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{CAAFF8E1526097C0}Assets/Clutter/Procedural/EBER_cp_wheat_cut_01.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

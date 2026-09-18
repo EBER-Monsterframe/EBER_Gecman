@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{0206C5B43B9A12F0}Terrains/Common/Surfaces/EBER_Debris_Coal_03.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

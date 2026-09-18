@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{169D8F501A710D13}EBER_Materials/Clutter/Configs/EBER_c_set_MountainGrass_01_01.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

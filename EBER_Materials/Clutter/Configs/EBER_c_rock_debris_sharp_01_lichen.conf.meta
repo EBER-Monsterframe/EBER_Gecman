@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{38C8EBD9536DFCE9}Configs/Clutter/EBER_c_rock_debris_sharp_01_lichen.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

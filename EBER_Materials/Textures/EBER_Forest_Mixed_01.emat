@@ -1,0 +1,6 @@
+TerrainMaterial : "{B94AC985924177F3}Terrains/Common/Surfaces/ForestClearing_Coniferous_01.emat" {
+ SatMapBlend 0.817
+ SatMapBrightness 0.061
+ PlantMat "{372F00AA2865B2BA}EBER_Materials/Clutter/Emats/EBER_cp_grass_01_leaves_aut.emat"
+ ClutterConfig "{F94E1176E3849CF1}EBER_Materials/Clutter/Configs/Set/EBER_c_set_ForestClearingCon_01.conf"
+}

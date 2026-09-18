@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{88991F40E56E9860}Configs/Clutter/EBER_c_Calluna_vulgaris_dry_02.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

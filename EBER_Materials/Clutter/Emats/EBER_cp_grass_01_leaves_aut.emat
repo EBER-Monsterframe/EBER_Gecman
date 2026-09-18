@@ -1,0 +1,8 @@
+Grass : "{781770B073E41762}Assets/Clutter/Procedural/cp_grass_01_leaves_aut.emat" {
+ SatMapLerp 0.186
+ SatMapBrightness 0.125
+ Plants 1
+ Edge 0.23
+ TexPlants 1
+ WindSmoothness 1
+}

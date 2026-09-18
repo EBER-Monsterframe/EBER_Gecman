@@ -1,0 +1,7 @@
+TerrainMaterial : "{5DB25651114863A5}Terrains/Common/Surfaces/Heather_01.emat" {
+ SatMapBlend 0.55
+ SatMapBrightness 0.06
+ PlantMat "{E920512F4AE433C1}EBER_Materials/Clutter/Emats/EBER_cp_MountainGrass_01.emat"
+ ClutterConfig "{8816E9D83A7461E4}EBER_Materials/Clutter/Configs/Set/EBER_c_set_Forest_Leaf_aut_01.conf"
+ BCRMiddleMap "{F9847420FF633BC3}Terrains/Common/Surfaces/Data/MountainGrass_Middle_03_BCR.edds"
+}

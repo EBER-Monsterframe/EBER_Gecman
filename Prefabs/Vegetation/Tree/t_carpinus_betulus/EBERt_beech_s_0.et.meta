@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{AC04B1F7DB4F50FA}Prefabs/Vegetation/Tree/t_carpinus_betulus/EBERt_beech_s_0.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

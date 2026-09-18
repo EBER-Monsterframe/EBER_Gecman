@@ -1,0 +1,8 @@
+Grass : "{508C1835852755D3}Assets/Clutter/Procedural/cp_wheat_01.emat" {
+ SatMapLerp 0.095
+ SatMapBrightness 0.134
+ Plants 1
+ Height 2.54
+ HeightRandomOffset 0.85
+ Edge 1.47
+}

@@ -1,0 +1,170 @@
+ForestGeneratorEntity : "{C110BC1515DDFD3F}Prefabs/WEGenerators/Forest/FG_Forest_Spruce1.et" {
+ ID "04BB674EA9B89118"
+ m_aLevels {
+  ForestGeneratorOutline Outline_small {
+   m_aTreeGroups {
+    TreeGroupClass BushesTrees {
+     m_aTrees {
+      ForestGeneratorTree betula_pendula_1s {
+       m_fMinScale 0.2
+      }
+      ForestGeneratorTreeShort corylus_avellana_1l {
+       m_fMinScale 0.6
+      }
+      ForestGeneratorTreeShort corylus_avellana_2 {
+       m_fMinScale 0.81
+      }
+      ForestGeneratorTreeShort Betula_Pendula_1sw {
+       m_fMinScale 0.9
+       m_fMaxScale 1
+      }
+     }
+    }
+    TreeGroupClass Trees {
+     m_aTrees {
+      ForestGeneratorTreeShort Birch1Small {
+       m_fMinScale 0.6
+       m_fMaxScale 0.9
+       m_Prefab "{3B506D75E484AD5C}Prefabs/Vegetation/Tree/t_betula_pendula/EBER_t_betula_pendula_2sw.et"
+       m_fWeight 0.8
+      }
+      ForestGeneratorTree Birch2Small {
+       m_fMaxScale 1
+       m_Prefab "{CF582AEDE959C528}Prefabs/Vegetation/Tree/t_betula_pendula/EBER_t_betula_pendula_3sw.et"
+       m_fWeight 0.7
+      }
+     }
+    }
+    TreeGroupClass Rocks {
+     m_fWeight 0.1
+     m_aTrees {
+      FallenTree SmallRock1 {
+       m_fMinScale 0.1
+       m_fMaxScale 0.45
+       m_Prefab "{341B5504943184B2}EBER_Prefabs/Rocks/Pure/EBER_GraniteRock_01.et"
+      }
+      FallenTree SmallRock2 {
+       m_fMinScale 0.2
+       m_fMaxScale 0.33
+       m_Prefab "{C71036A67185AD60}EBER_Prefabs/Rocks/Pure/EBER_GraniteSurfaceStone_02.et"
+      }
+     }
+    }
+   }
+   m_fDensity 400
+   m_fClusterStrength 0.8
+   m_fClusterRadius 12
+   m_fMaxDistance 40
+  }
+  ForestGeneratorOutline Outline_big {
+   m_aTreeGroups {
+    TreeGroupClass Trees {
+     m_aTrees {
+      ForestGeneratorTree BeechMedium {
+       m_Prefab "{F117078301EF0B3D}Prefabs/Vegetation/Tree/t_carpinus_betulus/EBER_t_beech_2s.et"
+      }
+     }
+    }
+    TreeGroupClass BushesTrees {
+     m_aTrees {
+      ForestGeneratorTree BeechSmall1 {
+       m_Prefab "{AC04B1F7DB4F50FA}Prefabs/Vegetation/Tree/t_carpinus_betulus/EBERt_beech_s_0.et"
+       m_fWeight 0.4
+      }
+      ForestGeneratorTree BeechSmall2 {
+       m_Prefab "{1F03D692E8AAD5DD}Prefabs/Vegetation/Tree/t_carpinus_betulus/EBER_t_beech_0s.et"
+       m_fWeight 0.33
+      }
+     }
+    }
+   }
+   m_fDensity 550
+   m_fMinDistance 35
+   m_fMaxDistance 65
+  }
+  ForestGeneratorTopLevel TopLevel {
+   m_aTreeGroups {
+    TreeGroupClass Trees {
+     m_aTrees {
+      FallenTree BeechLarge1 {
+       m_fMinScale 1.1
+       m_fMaxScale 1.35
+       m_Prefab "{A792BBCE66281181}Prefabs/Vegetation/Tree/t_carpinus_betulus/EBER_t_beechLarge_3f.et"
+      }
+      ForestGeneratorTree BeechLarge2 {
+       m_fMinScale 1.04
+       m_fMaxScale 1.6
+       m_Prefab "{D870025A1027DB25}Prefabs/Vegetation/Tree/t_carpinus_betulus/EBER_beechLarge_2.et"
+       m_fWeight 0.25
+      }
+      FallenTree stam {
+       m_fMaxScale 4
+       m_Prefab "{79D761B40A544ECC}Prefabs/Vegetation/Tree/t_carpinus_betulus/EBER_beechBranch_01.et"
+       m_fWeight 0.66
+      }
+      ForestGeneratorTreeShort beechSmall1 {
+       m_Prefab "{1F03D692E8AAD5DD}Prefabs/Vegetation/Tree/t_carpinus_betulus/EBER_t_beech_0s.et"
+      }
+      ForestGeneratorTreeShort pineSmall1 {
+       m_Prefab "{3358971FA9FF33C7}Prefabs/Vegetation/Tree/t_picea_abies/EBER_pineSmall_0.et"
+      }
+      ForestGeneratorTreeShort rockLarge1 {
+       m_fMaxScale 2.2
+       m_Prefab "{A52384CC0812A533}EBER_Prefabs/Rocks/Forest/EBER_GraniteRock_03_Forest.et"
+       m_fBotDistance 10
+       m_fWeight 0.01
+      }
+     }
+    }
+    TreeGroupClass Trees_dead {
+     m_aTrees {
+      ForestGeneratorTreeTall picea_abies_3d {
+       m_fMaxScale 2
+       m_fWeight 0.9
+      }
+      ForestGeneratorTree BeechLargeDead {
+       m_fMinScale 1
+       m_fMaxScale 1.4
+       m_Prefab "{24E68ED4C0999B87}Prefabs/Vegetation/Tree/t_carpinus_betulus/EBER_beechLargeDead_3.et"
+      }
+     }
+    }
+   }
+   m_fDensity 420
+   m_fOutlineOverlap -3
+   m_fClusterStrength 1.15
+   m_fClusterRadius 11
+  }
+  ForestGeneratorBottomLevel Undergrowth {
+   m_aTreeGroups {
+    TreeGroupClass picea_stump {
+     m_aTrees {
+      FallenTree Trunk_debris_01 {
+       m_fWeight 0.4
+      }
+      ForestGeneratorTreeShort t_picea_abies_stump_03_forest {
+       m_fWeight 0.08
+      }
+      FallenTree DirtSpot1 {
+       m_fMaxScale 2
+       m_Prefab "{48FDD8F9B57AF189}Prefabs/Vegetation/Tree/Debris/EBER_TreeDebris_base.et"
+      }
+     }
+    }
+    TreeGroupClass Picea {
+     m_aTrees {
+      ForestGeneratorTreeShort BeechSmall1 {
+       m_Prefab "{AC04B1F7DB4F50FA}Prefabs/Vegetation/Tree/t_carpinus_betulus/EBERt_beech_s_0.et"
+      }
+     }
+    }
+   }
+   m_fDensity 110
+  }
+ }
+ m_aClusters {
+  ForestGeneratorStripCluster FallenTree {
+   m_iPlacementArea Both
+  }
+ }
+}

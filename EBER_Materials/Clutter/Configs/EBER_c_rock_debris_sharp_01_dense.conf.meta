@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{FE0EF18F7B9AD0C3}Configs/Clutter/EBER_c_rock_debris_sharp_01_dense.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}
