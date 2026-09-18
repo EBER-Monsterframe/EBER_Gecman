@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{0CF53DA71D668B4B}EBER_Materials/Clutter/Configs/Set/EBER_c_set_sand_01.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}
