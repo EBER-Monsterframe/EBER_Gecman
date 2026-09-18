@@ -1,0 +1,11 @@
+Grass : "{E8ABEC8EF550CEF6}Assets/Clutter/Procedural/cp_grass_beach.emat" {
+ SatMapLerp 0.284
+ Plants 2
+ BladesCount 2
+ Height 0.23
+ HeightRandomOffset 0.44
+ Edge 0.52
+ DistribUVScale 110
+ HeightTreshold 0.902
+ TexPlants 2
+}

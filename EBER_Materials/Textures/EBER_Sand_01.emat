@@ -1,0 +1,6 @@
+TerrainMaterial : "{FA496A6CA63EEB3D}Terrains/Common/Surfaces/BeachGrass_01.emat" {
+ SatMapBlend 0.105
+ SatMapBrightness 0.818
+ PlantMat "{0DAFE3124E451F6C}EBER_Materials/Clutter/Emats/EBER_cp_grass_sand.emat"
+ ClutterConfig "{0CF53DA71D668B4B}EBER_Materials/Clutter/Configs/Set/EBER_c_set_sand_01.conf"
+}
