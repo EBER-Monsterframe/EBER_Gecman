@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{39416C924A21C49C}Prefabs/WEGenerators/Roads/Asphalt/EBER_RG_Road_Asphalt_E_01_Narrow.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

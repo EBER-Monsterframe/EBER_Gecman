@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{A7D593E97312F4DC}Prefabs/WEGenerators/Roads/Concrete/EBER_RG_Path_Concrete_USSR_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
