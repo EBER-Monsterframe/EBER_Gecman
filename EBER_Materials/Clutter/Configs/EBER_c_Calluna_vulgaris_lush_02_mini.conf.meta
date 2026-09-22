@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{6BA5CA70B8FDF604}EBER_Materials/Clutter/Configs/EBER_c_Calluna_vulgaris_lush_02_mini.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}
