@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{0695B4680E2E6F33}EBER_Materials/Clutter/Configs/Collection/EBER_c_collection_mud_01.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

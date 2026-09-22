@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{6F56C4475C7DEC22}EBER_Materials/Clutter/Configs/EBER_c_Vaccinium_myrtillus_01_mini.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

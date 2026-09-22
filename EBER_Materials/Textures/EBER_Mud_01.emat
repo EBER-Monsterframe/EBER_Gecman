@@ -1,0 +1,13 @@
+TerrainMaterial : "{B7455636ABA4F383}Terrains/Common/Surfaces/Dirt_01.emat" {
+ DielectricReflectance 0.019
+ ParallaxScale 0.029
+ SatMapBlend 0.807
+ SatMapBrightness 0.034
+ LocalShadowBias 0.444
+ DetailMaxDistance 91.606
+ DetailBlendDistance 43.066
+ ClutterConfig "{BF4FF85DE82F20A9}EBER_Materials/Clutter/Configs/Set/EBER_c_set_Mud_01.conf"
+ GlobalLayerGlobalAOAffection 0.59
+ MiddleNOPower 0.106
+ MiddleRoughnessScale 0.584
+}
