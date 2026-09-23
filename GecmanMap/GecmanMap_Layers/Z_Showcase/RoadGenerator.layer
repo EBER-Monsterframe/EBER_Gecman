@@ -2042,6 +2042,7 @@ $grp SplineShapeEntity {
     {
      RoadEntity {
       ID "5688A250E979A34A"
+      coords 0 0 1.287
       SplinePoints {
        ShapePoint "{5688A25092765CA0}" {
         Position 20.861 -4.005 37.444
