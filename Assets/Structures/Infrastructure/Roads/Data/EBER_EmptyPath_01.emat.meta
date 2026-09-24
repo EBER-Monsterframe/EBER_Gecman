@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{98D8F91B2332CC98}Assets/Structures/Infrastructure/Roads/Data/EBER_EmptyPath_01.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,634 @@
+SplineShapeEntity {
+ coords 787.667 87.902 7872.53
+ Points {
+  ShapePoint "{6A700C76CF9788CE}" {
+   Position -2.427 -1.527 -129.926
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C76247835C2}" {
+   Position -72.046 1.984 -62.515
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C7625F6F0EC}" {
+   Position -8.99 8.724 77.5
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C76260029A3}" {
+   Position 17.469 3.163 179.861
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C76269515CF}" {
+   Position 64.486 7.892 218.284
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C7627737BDA}" {
+   Position 143.418 2.241 165.71
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C7627DF1CE8}" {
+   Position 193.341 -5.295 114.413
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C7628AC753D}" {
+   Position 233.777 -9.065 77.632
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C762A50B101}" {
+   Position 276.197 -3.477 44.818
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C762ACFB32D}" {
+   Position 306.293 3.181 22.405
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C762DB12DA7}" {
+   Position 316.19 4.308 -48.641
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C760DA06EE9}" {
+   Position 419.914 7.058 -75.045
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C760F4BCF72}" {
+   Position 544.529 7.561 -114.641
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C760FCA1F57}" {
+   Position 546.982 2.158 -164.51
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C7670015428}" {
+   Position 523.762 0.556 -205.657
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C7670F76935}" {
+   Position 479.044 3.793 -262.304
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C7671BF6E53}" {
+   Position 534.194 -0.063 -288.487
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C7671DF0AFE}" {
+   Position 509.761 -0.847 -329.456
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C76720ED66B}" {
+   Position 439.622 1.501 -367.335
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C7673328D85}" {
+   Position 389.637 -0.57 -417.291
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B55C205C5}" {
+   Position 424.943 4.632 -528.351
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B565B7531}" {
+   Position 464.626 2.609 -476.9
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B56847807}" {
+   Position 434.91 7.842 -604.729
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+    SplinePointData SplinePointData {
+     InTangent -182.239 9.427 -212.525
+     OutTangent -182.239 9.427 -212.525
+    }
+   }
+  }
+  ShapePoint "{6A70164B5755A1E6}" {
+   Position 385.447 17.401 -853.824
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C7673E21AE8}" {
+   Position 485.867 25.285 -872.611
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B3D0991E1}" {
+   Position 560.084 33.674 -921.967
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B3D91F0DC}" {
+   Position 692.587 34.189 -941.552
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B3E1DB9FE}" {
+   Position 798.816 23.228 -915.418
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B3EAE0E48}" {
+   Position 852.24 18.432 -862.036
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B200EB93C}" {
+   Position 925.935 9.811 -948.39
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B20E766B7}" {
+   Position 1000.937 8.527 -985.294
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B216BE7A2}" {
+   Position 1065.89 4.014 -1002.814
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B21B71F42}" {
+   Position 1092.125 7.311 -931.576
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B21F212E1}" {
+   Position 1112.246 5.195 -886.925
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B22093950}" {
+   Position 1069.792 7.739 -798.485
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B23DC803D}" {
+   Position 944.187 6.832 -700.455
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B252F85A2}" {
+   Position 970.193 3.521 -632.981
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B255060E2}" {
+   Position 898.197 5.279 -607.51
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B261A0B84}" {
+   Position 992.333 8.547 -448.151
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B2D558ABA}" {
+   Position 848.014 20.961 -399.563
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B2DD27653}" {
+   Position 787.574 19.291 -465.488
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B2E613C3A}" {
+   Position 740.302 16.803 -416.976
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B2EE18FD6}" {
+   Position 818.29 20.615 -353.607
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B2F1E36B9}" {
+   Position 900.402 18.723 -314.04
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B265CC330}" {
+   Position 932.459 14.395 -407.511
+   Data {
+    SplinePointData SplinePointData {
+     InTangent 130.161 0.726 -4.081
+     OutTangent 130.161 0.726 -4.081
+    }
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B01AC54AA}" {
+   Position 1059.218 17.862 -345.653
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B02544726}" {
+   Position 1159.354 13.228 -322.239
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B03348CA0}" {
+   Position 1232.124 8.172 -363.527
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B04504DA3}" {
+   Position 1281.064 15.441 -307.058
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B04D8A719}" {
+   Position 1277.562 22.995 -266.712
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B05112504}" {
+   Position 1233.751 22.745 -247.1
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B058C7940}" {
+   Position 1193.778 21.093 -205.667
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B064B36FD}" {
+   Position 1227.603 17.205 -154.059
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B0753ABBB}" {
+   Position 1174.781 0.121 -111.74
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B07DB179A}" {
+   Position 1120.642 8.327 -149.861
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B08013BDF}" {
+   Position 1087.505 -5.584 -89.901
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B0B96F22D}" {
+   Position 1036.232 -6.247 -76.252
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B0C3CFD59}" {
+   Position 990.572 -2.204 -93.892
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B0C441AD3}" {
+   Position 1006.142 -4.112 -30.342
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B0DBCA08B}" {
+   Position 1080.26 -9.504 -2.643
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B0DFA2B7E}" {
+   Position 1080.64 -13.911 66.761
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B0E1E5E50}" {
+   Position 1101.625 -21.048 138.521
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B0E873569}" {
+   Position 1028.302 -27.517 189.615
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B0F013C60}" {
+   Position 942.049 -20.948 147.598
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B0FAE5A7D}" {
+   Position 856.382 -3.519 119.512
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B0FF13B32}" {
+   Position 786.739 4.936 79.563
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B715FC6CA}" {
+   Position 664.569 -1.878 28.363
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B71C3CABF}" {
+   Position 661.251 14.708 -114.003
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B69D3FD10}" {
+   Position 608.772 7.47 -221.108
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B6A0B0705}" {
+   Position 640.88 10.407 -248.764
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B6A970B99}" {
+   Position 632.988 3.712 -313.141
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B6D6D7974}" {
+   Position 582.171 1.093 -381.902
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B6DEDA0DF}" {
+   Position 553.574 -0.995 -413.226
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B6E0CFD31}" {
+   Position 561.37 1.347 -468.673
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B6EF36401}" {
+   Position 520.605 4.793 -516.507
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B6FAF79A7}" {
+   Position 477.88 6.283 -553.348
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B51E15D4F}" {
+   Position 456.336 7.524 -591.905
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B533947C6}" {
+   Position 453.122 9.898 -677.087
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B53495C13}" {
+   Position 413.326 10.9 -744.033
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164B543110E7}" {
+   Position 352.433 14.058 -842.971
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C7676432D84}" {
+   Position 274.025 12.804 -819.152
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C7677951C4C}" {
+   Position 154.526 7.008 -765.065
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A70164BEC05FC85}" {
+   Position 185.658 4.189 -645.176
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C7678816C05}" {
+   Position 97.702 5.159 -556.194
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C76797F3318}" {
+   Position 90.669 -0.909 -406.947
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C7679F68B3F}" {
+   Position 77.082 0.756 -341.334
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+    SplinePointData SplinePointData {
+     InTangent -113.117 2.254 78.205
+     OutTangent -113.117 2.254 78.205
+    }
+   }
+  }
+  ShapePoint "{6A700C767D473D47}" {
+   Position 55.182 0.729 -234.977
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+  ShapePoint "{6A700C76CF979371}" {
+   Position 17.579 -0.657 -155.643
+   Data {
+    ForestGeneratorPointData "{000000002C57B0BA}" {
+    }
+   }
+  }
+ }
+ LineColor 0 1 0 0
+}

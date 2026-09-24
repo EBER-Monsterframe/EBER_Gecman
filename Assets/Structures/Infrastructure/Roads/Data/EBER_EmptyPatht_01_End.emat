@@ -1,0 +1,5 @@
+MatPBRRoadEnd : "{35AEA4C4B9582669}Assets/Structures/Infrastructure/Roads/Data/Road_Dirt_02_End.emat" {
+ BCRMap 
+ OpacityMap "{2ABEE6FF02A104DF}Prefabs/WEGenerators/Roads/Satmap/BlackMask256_BCR.edds"
+ NMOMap 
+}

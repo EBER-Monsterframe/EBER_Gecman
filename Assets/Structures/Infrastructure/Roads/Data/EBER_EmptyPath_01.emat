@@ -1,0 +1,11 @@
+MatPBRRoad : "{E7BDA18252D3873F}Assets/Structures/Infrastructure/Roads/Data/Road_Dirt_02.emat" {
+ BCRMap 
+ OpacityMap "{2ABEE6FF02A104DF}Prefabs/WEGenerators/Roads/Satmap/BlackMask256_BCR.edds"
+ NormalPower 0.815
+ NMOMap 
+ DetailNormalMap 
+ HeightMap 
+ PuddleHeightMap 
+ PuddleNoiseMap 
+ RoadEndingMaterial "{2DDDF9693D2C9CFF}Assets/Structures/Infrastructure/Roads/Data/EBER_EmptyPatht_01_End.emat"
+}
